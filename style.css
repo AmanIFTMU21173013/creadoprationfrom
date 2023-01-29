@@ -1,0 +1,87 @@
+.an{
+	font-size:1.5vw;
+	color:white;
+	background-color:green;
+	margin-right:.5vw;
+	padding:.2vw 1vw;
+}
+.an:hover{
+	color:red;
+}
+.img{
+  		background-image:url(image/aman222.jpg);
+  		background-repeat: no-repeat;
+  		
+  		background-size: cover;
+  	}
+
+.dv{
+	text-align:center;
+	margin-top:4vw;
+}
+.lah{
+	font-size:2.5vw;
+	font-weight:bold;
+	color:black;
+	font-family:lucida calligraphy;
+}
+.la{
+	font-size:1.3vw;
+}
+.lb{
+	font-size:1.4vw;
+}
+span{
+	color:red;
+	font-size:1.6vw;
+}
+.ta{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:2vw;
+	background-color:cyan;
+}
+.tdp{
+	padding:1vw;
+}
+.tb{
+	font-size:1.6vw;
+	border-radius:.5vw;
+	width:100%;
+}
+.bt{
+	font-size:1.5vw;
+	color:white;
+	background-color:#00AB8C;
+	margin-right:.5vw;
+	padding:none;
+	cursor:pointer;
+	border-radius:5vw;
+}
+.tar{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:2vw;
+	border-collapse:collapse;
+	width:45;
+}
+
+
+         /*
+         (1) navbar.jsp
+         (2) index.jsp
+         (3) add-customer.jsp
+         (4) conn.jsp
+         (5) save-record.jsp
+         (6) customer-list.jsp
+         (7) edit-customer.jsp (from customer list)
+         (8) update-record.jsp (from customer list
+         (9) delete-record.jsp (from customer list)
+        (10) search-customer.jsp 
+        (11) show-record.jsp
+        (12) edit-customer-record.jsp
+        (13) get-customer.jsp
+        (14) update-customer-record.jsp
+        (15) delete-customer.jsp
+        (16) delete-customer-record.jsp
+        */
